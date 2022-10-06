@@ -3,7 +3,9 @@
   "description": "Source code for book fetching in littlechildwriter.web.app",
   "version": "0.0.1",
   "private": true,
-  "scripts": {},
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "axios": "^1.0.0",
     "cheerio": "^1.0.0-rc.12",
